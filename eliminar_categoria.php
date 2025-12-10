@@ -20,5 +20,3 @@ if (mysqli_query($conexion, $sql)) {
     exit();
 }
 ?>
-
-
